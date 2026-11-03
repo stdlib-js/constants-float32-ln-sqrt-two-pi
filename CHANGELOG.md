@@ -12,6 +12,7 @@
 
 <details>
 
+-   [`fef28cc`](https://github.com/stdlib-js/stdlib/commit/fef28cc62d12992a883f8d85de099677447fe1d3) - **docs:** add missing `@see` tags [(#16474)](https://github.com/stdlib-js/stdlib/pull/16474) _(by Philipp Burckhardt)_
 -   [`9f36f33`](https://github.com/stdlib-js/stdlib/commit/9f36f33f6f3a05630bcef1938b90f3469fd3dc81) - **test:** migrate `constants/float32/ln-sqrt-two-pi` to ULP-based assertions [(#16155)](https://github.com/stdlib-js/stdlib/pull/16155) _(by Athan Reines)_
 
 </details>
@@ -24,9 +25,10 @@
 
 ### Contributors
 
-A total of 1 person contributed to this release. Thank you to this contributor:
+A total of 2 people contributed to this release. Thank you to the following contributors:
 
 -   Athan Reines
+-   Philipp Burckhardt
 
 </section>
 
